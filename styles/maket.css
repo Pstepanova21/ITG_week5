@@ -1,72 +1,72 @@
 h3 {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-  }
-  .p1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-weight: 900;
-    background-color: rgb(228, 188, 128);
-    width: 30vw;
-    height: 6vh;
-    margin-top: 240px;
-  }
-  .p2 {
-    background-color: white;
-    padding: 25px;
-    font-weight: 900;
-  }
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.p1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  background-color: rgb(228, 188, 128);
+  width: 30vw;
+  height: 6vh;
+  margin-top: 150px;
+}
+.p2 {
+  background-color: white;
+  padding: 25px;
+  font-weight: 900;
+}
 
-  .p3 {
-    font-weight: 900;
+.p3 {
+  font-weight: 900;
 
-  }
+}
 
-  .head {
-    height: 15vh;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    background: rgb(219, 219, 217);
-  }
+.head {
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background: rgb(219, 219, 217);
+}
 
-  main {
-    display: flex;
-  }
-  .main {
-    height: 50vh;
-    width: 70vw;
-    background: rgb(221, 221, 178);
-  }
+main {
+  display: flex;
+}
+.main {
+  height: 50vh;
+  width: 70vw;
+  background: rgb(221, 221, 178);
+  align-items: flex-start;
+}
 
-  .shortblock {
-    display: flex;
-    justify-content: space-around;
-  }
-  .longblock {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    background-color: rgb(228, 188, 128);
-    height: 6vh;
-    margin: 6px;
-    
-  }
+.shortblock {
+  display: flex;
+  justify-content: space-around;
+}
+.longblock {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(228, 188, 128);
+  height: 6vh;
+  margin: 6px;
+}
 
-  .else {
-    height: 50vh;
-    width: 40vw;
-    background-color: rgb(181, 208, 180);
-  }
-  footer {
-    background-color: rgb(219, 219, 217);
-  }
-  .footer {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 10px;
-  }
+.else {
+  height: 50vh;
+  width: 40vw;
+  background-color: rgb(181, 208, 180);
+}
+footer {
+  background-color: rgb(219, 219, 217);
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
